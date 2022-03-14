@@ -103,7 +103,7 @@ code and unused code. Any unused lines of code will have a red line at the begin
   or both.
 * The **Total Bytes** column is the total size of the resource in bytes.
 * The **Unused Bytes** column is the number of bytes that weren't used.
-* The last, unnamed column is a visualization of the **Total Bytes** and
+* The **Usage Visualization** column is a visualization of the **Total Bytes** and
   **Unused Bytes** columns. The red section of the bar is unused bytes. The
   green section is used bytes.
 
